@@ -1,2 +1,2 @@
-# Admin-contrase-as
+# Admin-contraseñas
 Generador de Contraseñas
